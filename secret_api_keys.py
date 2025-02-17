@@ -1,0 +1,5 @@
+HUGGINGFACE_API_KEY="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"
+# "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"
+
+
+LANGCHAIN_API_KEY="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"
